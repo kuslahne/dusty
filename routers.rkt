@@ -4,7 +4,6 @@
     web-server/dispatch
 
     "handlers/user.rkt"
-    "handlers/chart.rkt"
     "handlers/index.rkt"
     "handlers/errors.rkt")
 
